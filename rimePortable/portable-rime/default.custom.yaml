@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Apr 27 22:19:43 2023"
+  rime_version: 1.5.3
+patch:
+  key_binder:
+    bindings: [{accept: "Control+k", send: Up, when: composing}, {accept: "Control+l", send: Down, when: composing}, {accept: "Control+u", send: Page_Down, when: composing}, {accept: "Control+y", send: Page_Up, when: composing}, {accept: "Control+h", send: BackSpace, when: composing}, {accept: "Control+j", send: Return, when: composing}, {accept: "Control+i", send: Escape, when: composing}]
+  schema_list:
+    - {schema: double_pinyin_flypy}
+    - {schema: jyut6ping3}

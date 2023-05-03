@@ -1,0 +1,333 @@
+# Rime user dictionary
+#@/db_name	jyut6ping3.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	513
+#@/user_id	portable-rime
+a3 	啊	c=2 d=0.516308 t=513
+aa3 	啊	c=2 d=0.547803 t=513
+aa3 	阿	c=1 d=0.148823 t=513
+aat3 	壓	c=1 d=1 t=502
+aat3 lik6 	壓力	c=1 d=1 t=501
+baai6 bak1 	敗北	c=1 d=0.244143 t=513
+baak3 dou6 	百度	c=1 d=0.70822 t=513
+baan2 	闆	c=1 d=0.17552 t=513
+ban2 	品	c=1 d=0.985112 t=513
+bat1 jin4 	不然	c=1 d=0.26982 t=513
+bat1 si6 	不是	c=1 d=0.343009 t=513
+bat1 tung4 	不同	c=1 d=0.794534 t=513
+bat1 zi1 	不知	c=1 d=0.771052 t=513
+bei6 	被	c=2 d=0.779846 t=513
+bin3 sing4 	變成	c=1 d=0.985112 t=513
+bou6 	部	c=1 d=0.588605 t=513
+bou6 coeng1 	步槍	c=1 d=0.970446 t=513
+bou6 fan6 	部分	c=1 d=1 t=487
+bui1 	杯	c=1 d=0.438235 t=513
+bui3 	背	c=1 d=0.301194 t=513
+bun3 	半	c=2 d=1.90722 t=513
+caa4 seon1 	查詢	c=1 d=0.197899 t=513
+caak3 hoi1 	拆開	c=1 d=0.774916 t=513
+caan2 ban2 	產品	c=1 d=0.704688 t=513
+caan2 sang1 	產生	c=1 d=1 t=499
+ceoi3 joek6 	脆弱	c=1 d=1 t=488
+ceoi4 	鎚	c=1 d=0.211189 t=513
+ceot1 	出	c=5 d=3.31113 t=513
+ceot1 caai1 	出差	c=1 d=0.479505 t=513
+ci2 hang6 	此行	c=2 d=1.23868 t=513
+ci4 fu3 	詞庫	c=2 d=1.68268 t=513
+cing4 	晴	c=1 d=0.16696 t=513
+cing4 zeoi6 	程序	c=1 d=0.83527 t=513
+cit3 	切	c=2 d=0.44555 t=513
+cit3 ding6 	設定	c=1 d=0.172907 t=513
+co3 ng6 	錯誤	c=1 d=1 t=494
+coeng4 	牆	c=1 d=0.319819 t=513
+coi3 	菜	c=1 d=0.650509 t=513
+coi3 	賽	c=3 d=1.02406 t=513
+cong3 san1 	創新	c=2 d=1.77856 t=513
+cung1 	沖	c=1 d=1 t=492
+cung1 gik1 	衝擊	c=1 d=1 t=493
+cung4 	從	c=2 d=1.61753 t=513
+cung4 san1 	重新	c=1 d=0.869358 t=513
+cung4 zi3 	重置	c=1 d=0.856415 t=513
+cyu3 	處	c=1 d=0.161218 t=513
+cyun1 	村	c=1 d=0.147342 t=513
+cyun4 	傳	c=1 d=0.321422 t=513
+daa2 ceot1 	打出	c=1 d=0.909373 t=513
+daai6 hok6 	大學	c=4 d=3.75499 t=513
+daan6 si6 	但是	c=1 d=0.726149 t=513
+dak1 zau1 	德州	c=1 d=0.557106 t=513
+dak1 zi1 	得知	c=1 d=0.847894 t=513
+dei6 fong1 	地方	c=1 d=0.264477 t=513
+dei6 zi2 	地址	c=1 d=0.203926 t=513
+deoi3 jyu1 	對於	c=1 d=0.869358 t=513
+deoi6 	隊	c=1 d=0.433874 t=513
+dik1 	的	c=36 d=18.1048 t=513
+din6 hei3 	電器	c=1 d=0.559898 t=513
+ding6 zai3 	定製	c=1 d=0.946485 t=513
+do1 	多	c=1 d=0.923116 t=513
+dou1 	刀	c=2 d=0.497695 t=513
+dou1 	都	c=3 d=2.55072 t=513
+dou2 	到	c=4 d=1.49969 t=513
+duk6 	獨	c=1 d=0.145876 t=513
+dung1 naam4 	東南	c=3 d=2.84935 t=513
+dung6 	動	c=1 d=0.423162 t=513
+dung6 zok3 	動作	c=1 d=0.283654 t=513
+e4 e1 	𡃀𫫃	c=1 d=0.339596 t=513
+faai3 zit6 gin6 	快捷鍵	c=1 d=0.177284 t=513
+faan2 	反	c=2 d=1.25899 t=513
+faat3 	髮	c=3 d=1.8557 t=513
+fai3 	費	c=1 d=0.418952 t=513
+fan1 lau4 	分流	c=1 d=0.173774 t=513
+fo2 	火	c=1 d=0.323033 t=513
+fu4 	乎	c=1 d=0.145148 t=513
+fu6 zaak3 	負責	c=1 d=0.733447 t=513
+fuk1 	幅	c=1 d=0.179964 t=513
+fun1 	寛	c=1 d=0.157237 t=513
+fung1 jyu5 	風雨	c=1 d=0.164474 t=513
+gaa1 	加	c=1 d=0.377192 t=513
+gaa1 	家	c=7 d=3.22499 t=513
+gaai2 kyut3 	解決	c=1 d=0.895834 t=513
+gaap3 	夾	c=2 d=1.51744 t=513
+gaau3 nei5 	教你	c=1 d=0.208045 t=513
+gang1 san1 	更新	c=1 d=0.826959 t=513
+gei3 	既	c=1 d=1 t=490
+gei3 dak1 	記得	c=1 d=0.305746 t=513
+gei6 	技	c=1 d=0.594521 t=513
+gei6 nang4 	技能	c=1 d=0.425283 t=513
+gei6 seot6 	技術	c=2 d=1.29518 t=513
+geng3 	鏡	c=1 d=0.946485 t=513
+geng3 tau4 	鏡頭	c=2 d=1.39849 t=513
+gim3 	劍	c=1 d=0.402524 t=513
+gin6 	件	c=1 d=0.715338 t=513
+ging1 lei5 	經理	c=1 d=0.600496 t=513
+goi2 	改	c=1 d=0.878095 t=513
+goi2 bin3 	改變	c=1 d=0.416862 t=513
+gong2 	講	c=1 d=0.204948 t=513
+gong3 	降	c=1 d=1 t=503
+gou1 	高	c=1 d=0.715338 t=513
+gou1 sau2 	高手	c=1 d=0.278037 t=513
+gu2 	古	c=1 d=0.327915 t=513
+gu2 sing4 	古城	c=1 d=0.349938 t=513
+gung1 jing3 soeng1 	供應商	c=1 d=0.565525 t=513
+gung1 si1 	公司	c=5 d=3.25087 t=513
+gwaa3 sat1 	掛失	c=1 d=0.201897 t=513
+gwai1 heoi3 	歸去	c=1 d=0.162026 t=513
+gwai3 	貴	c=1 d=1 t=485
+gwan1 deoi2 	軍隊	c=1 d=0.97531 t=513
+gwan2 	滾	c=1 d=0.313486 t=513
+gwok3 	國	c=1 d=0.429557 t=513
+gwong1 	光	c=1 d=1 t=513
+haa6 	下	c=1 d=0.353455 t=513
+haa6 zoi3 	下載	c=1 d=0.382893 t=513
+hak1 	黑	c=1 d=0.227638 t=513
+ham4 loeng6 	含量	c=1 d=0.70822 t=513
+han2 	很	c=1 d=0.878095 t=513
+hang4 	行	c=1 d=0.506617 t=513
+hat6 sam1 	核心	c=1 d=0.637628 t=513
+hau2 zung1 	口中	c=1 d=0.843665 t=513
+heoi3 	去	c=5 d=2.73097 t=513
+ho2 ji5 	可以	c=2 d=0.904837 t=513
+ho2 ji5 liu5 	可以了	c=1 d=0.767206 t=513
+hoeng3 loi4 	向來	c=1 d=0.159614 t=513
+hoi1 	開	c=1 d=0.318224 t=513
+hok6 jyun2 	學院	c=1 d=0.904837 t=513
+hou2 	好	c=2 d=1.25472 t=513
+hou6 maa5 	號碼	c=1 d=0.199888 t=513
+jaa5 	也	c=2 d=0.328136 t=513
+jan1 	恩	c=1 d=0.348192 t=513
+jan1 ci2 	因此	c=3 d=2.97521 t=512
+jan4 	人	c=2 d=0.959138 t=513
+jat1 	一	c=6 d=1.78592 t=513
+jat1 ci3 	一次	c=3 d=1.10525 t=513
+jat1 go3 	一個	c=2 d=1.29537 t=513
+jat1 gung6 	一共	c=1 d=0.474734 t=513
+jau4 	油	c=1 d=0.404542 t=513
+jau4 hei3 	遊戲	c=1 d=0.276651 t=513
+jau4 jyu4 	猶豫	c=1 d=0.240508 t=513
+jau5 	有	c=2 d=1.17625 t=513
+jau5 ho2 nang4 	有可能	c=1 d=1 t=505
+jau5 sam6 mo1 	有什麼	c=1 d=0.810584 t=513
+jau6 	又	c=1 d=0.287941 t=513
+jeng4 	贏	c=1 d=0.194952 t=513
+ji4 ji5 	而已	c=1 d=0.25924 t=513
+ji5 	爾	c=2 d=1.13003 t=513
+ji5 do2 	耳朵	c=2 d=0.38603 t=513
+jin4 	研	c=1 d=0.582748 t=513
+jing4 	凝	c=1 d=0.19593 t=513
+joeng4 	陽	c=2 d=0.900978 t=513
+joeng6 	讓	c=1 d=0.22091 t=513
+jung6 	用	c=2 d=0.744532 t=513
+jung6 jyu1 	用於	c=1 d=0.900325 t=513
+jung6 wu6 	用戶	c=1 d=0.790571 t=513
+jyu4 gwo2 	如果	c=2 d=1.98511 t=510
+jyu4 ho4 	如何	c=4 d=1.13489 t=513
+jyun2 zoeng2 	院長	c=3 d=2.82176 t=513
+jyut6 	月	c=1 d=0.467666 t=513
+kau3 zou6 	構造	c=1 d=0.786628 t=513
+ke4 si6 	騎士	c=1 d=0.228779 t=513
+kei4 	琪	c=2 d=1.8825 t=513
+kei4 taa1 	其他	c=0 d=0.0748264 t=513
+keoi1 bit6 	區別	c=1 d=0.814647 t=513
+laa1 	啦	c=1 d=0.331211 t=513
+lau4 sing1 	流星	c=1 d=0.210136 t=513
+lei6 jung6 	利用	c=1 d=0.308819 t=513
+leoi4 	驢	c=1 d=0.193013 t=513
+leoi5 	裏	c=2 d=0.927743 t=513
+leoi5 min6 	裏面	c=4 d=2.26586 t=513
+lim5 	臉	c=1 d=0.256661 t=513
+liu5 	了	c=6 d=2.67955 t=513
+liu5 gaai2 	瞭解	c=1 d=0.609571 t=513
+loeng5 ci3 	兩次	c=1 d=0.481909 t=513
+loi4 	來	c=2 d=1.58673 t=513
+lok6 	洛	c=2 d=0.896484 t=513
+lou5 	老	c=1 d=0.168638 t=513
+lou5 baan2 	老闆	c=1 d=0.865022 t=513
+lou5 syu2 	老鼠	c=1 d=0.360595 t=513
+lou6 soeng6 	路上	c=1 d=0.822835 t=513
+luk6 	綠	c=1 d=0.231078 t=513
+lyun4 	聯	c=1 d=0.154896 t=513
+lyun6 	亂	c=1 d=0.238115 t=513
+maa3 	嘛	c=1 d=0.65377 t=513
+maa5 hak1 si1 	馬克思	c=1 d=0.895834 t=513
+maan6 	慢	c=1 d=0.235746 t=513
+maan6 	曼	c=2 d=0.306714 t=513
+man4 gin2 	文件	c=2 d=1.64243 t=513
+man4 gin6 gaap3 	文件夾	c=1 d=0.839457 t=513
+man6 tai4 	問題	c=1 d=0.891366 t=513
+mei5 gwok3 	美國	c=2 d=0.955997 t=513
+min6 deoi3 	面對	c=1 d=0.414783 t=513
+mou4 	無	c=3 d=0.619166 t=513
+mou4 si1 	巫師	c=8 d=2.18521 t=513
+mui5 	每	c=1 d=0.891366 t=513
+mun4 	們	c=2 d=1.30839 t=513
+mut6 jau5 	沒有	c=2 d=0.783233 t=513
+naa4 	拿	c=3 d=1.55007 t=513
+naa5 	那	c=1 d=0.178173 t=513
+naa5 go3 	那個	c=5 d=1.13759 t=513
+naa5 leoi5 	哪裏	c=1 d=0.410656 t=513
+ne1 	呢	c=1 d=0.88692 t=513
+nei5 	你	c=1 d=0.644036 t=513
+ng5 	五	c=1 d=0.937067 t=513
+ngaan5 	眼	c=1 d=0.190139 t=513
+ngaan5 geng2 	眼鏡	c=1 d=0.191092 t=513
+ngaau5 	咬	c=1 d=0.362402 t=513
+ngau4 	牛	c=2 d=0.54507 t=513
+ngo5 	我	c=4 d=1.34229 t=513
+nin4 	年	c=1 d=0.895834 t=513
+nou4 	奴	c=2 d=0.910033 t=513
+nung4 	農	c=1 d=0.158025 t=513
+on1 	安	c=2 d=1.87311 t=513
+on3 	案	c=2 d=0.914594 t=513
+paa3 	怕	c=1 d=1 t=491
+paak3 maai6 	拍賣	c=1 d=0.189191 t=513
+pei3 gu2 	屁股	c=1 d=0.357007 t=513
+pou4 tou4 ngaa4 	葡萄牙	c=1 d=0.427415 t=513
+pui3 fong1 	配方	c=1 d=0.40657 t=513
+pun3 ding6 	判定	c=1 d=0.292293 t=513
+saam1 	三	c=1 d=0.683861 t=513
+sai1 	西	c=1 d=0.151829 t=513
+sai3 gaai3 	世界	c=1 d=0.436049 t=513
+sai3 gaai3 bui1 	世界盃	c=1 d=0.440432 t=513
+sam1 	心	c=2 d=0.373691 t=513
+sam1 	森	c=1 d=0.149569 t=513
+sam1 tang4 	心疼	c=1 d=0.22313 t=513
+sam1 zan3 	深圳	c=3 d=1.53033 t=513
+san4 	晨	c=1 d=0.225373 t=513
+sau1 	收	c=1 d=0.280832 t=513
+sau2 gei1 	手機	c=1 d=0.198891 t=513
+se6 	射	c=1 d=0.927743 t=513
+sei3 	四	c=1 d=0.465334 t=513
+sei3 jyut6 	四月	c=1 d=0.472367 t=513
+sek6 	石	c=2 d=0.501433 t=513
+sek6 tau4 	石頭	c=1 d=0.311923 t=513
+seoi1 jiu3 	需要	c=2 d=1.11436 t=513
+seoi2 dou6 	水道	c=1 d=0.355226 t=513
+seoi2 ping4 min6 	水平面	c=1 d=0.802519 t=513
+seoi3 	歲	c=1 d=0.941765 t=513
+si5 zung1 sam1 	市中心	c=1 d=0.527292 t=513
+si6 	是	c=11 d=5.09848 t=513
+si6 bat1 si6 	是不是	c=1 d=0.818731 t=513
+si6 fau2 	是否	c=1 d=0.20089 t=513
+sik1 cing4 	色情	c=2 d=1.865 t=513
+sin3 	線	c=1 d=1 t=497
+sing3 	性	c=2 d=0.905494 t=513
+sing4 	城	c=2 d=0.482913 t=513
+sip3 zoeng6 tau4 	攝像頭	c=1 d=0.625002 t=513
+siu1 sat1 	蕭瑟	c=1 d=0.160414 t=513
+siu3 jung4 	笑容	c=1 d=0.249075 t=513
+soeng1 	商	c=1 d=0.156453 t=513
+soeng1 hoi6 	傷害	c=1 d=0.290835 t=513
+soeng5 	上	c=1 d=0.257947 t=513
+suk6 jan4 	熟人	c=2 d=0.337281 t=513
+suk6 lin6 	熟練	c=1 d=0.218712 t=513
+syun2 waai6 	損壞	c=1 d=1 t=506
+taa1 	他	c=4 d=2.21969 t=513
+taan4 	彈	c=3 d=0.809211 t=513
+tai2 	體	c=1 d=0.212248 t=513
+tau1 	偷	c=1 d=0.213312 t=513
+tau3 	透	c=1 d=0.941765 t=513
+tau4 jap6 	投入	c=1 d=0.913931 t=513
+tau4 jing2 	投影	c=1 d=0.628135 t=513
+tim1 gaa1 	添加	c=0 d=0.0748264 t=513
+tim1 gaa1 kei4 taa1 	添加其他	c=1 d=0.752014 t=513
+tip3 baa6 	貼吧	c=1 d=0.71177 t=513
+tiu4 	條	c=1 d=0.232236 t=513
+tou4 pin2 	圖片	c=2 d=1.87435 t=513
+tung1 	通	c=1 d=0.155673 t=513
+tung1 gwo3 	通過	c=1 d=0.937067 t=513
+tung4 hong4 	同行	c=1 d=0.831104 t=513
+tung4 si6 	同事	c=1 d=0.839457 t=513
+tyun5 mei5 	斷尾	c=1 d=0.367879 t=513
+waa2 	畫	c=1 d=0.180866 t=513
+waan2 	玩	c=1 d=0.392586 t=513
+wai6 jyu1 	位於	c=1 d=0.540641 t=513
+wo4 	和	c=1 d=0.782705 t=513
+wo4 mun4 	和們	c=1 d=0.571209 t=513
+wui4 fuk6 	回復	c=1 d=0.2334 t=513
+wui4 sau2 	回首	c=1 d=0.158817 t=513
+wui5 	會	c=1 d=0.242926 t=513
+zaak3 	窄	c=1 d=0.261846 t=513
+zaam6 	站	c=1 d=0.514274 t=513
+zai3 sik1 	制式	c=1 d=0.965605 t=513
+zan1 si6 	真是	c=1 d=0.285076 t=513
+zau2 	走	c=1 d=0.67368 t=513
+zau2 fong2 	走訪	c=1 d=0.677057 t=513
+zau6 	就	c=5 d=2.44662 t=513
+ze2 	這	c=5 d=2.85668 t=513
+ze2 gaa1 	這家	c=1 d=0.852144 t=513
+ze2 jat1 doi6 	這一代	c=1 d=0.236928 t=513
+ze2 joeng6 	這樣	c=1 d=0.778801 t=513
+ze2 leoi5 	這裡	c=2 d=0.644002 t=513
+ze2 leoi5 dik1 	這裏的	c=1 d=0.364219 t=513
+ze2 mo1 	這麼	c=1 d=0.26054 t=513
+ze3 go3 	這個	c=2 d=0.432477 t=513
+ze6 	謝	c=4 d=2.73312 t=513
+zeoi1 kau4 	追求	c=1 d=0.88692 t=513
+zeoi3 	最	c=2 d=1.47765 t=513
+zeoi3 hau6 	最後	c=1 d=0.509156 t=513
+zeon3 jap6 	進入	c=1 d=0.965605 t=513
+zi1 	之	c=1 d=0.187308 t=513
+zi1 	知	c=1 d=0.144424 t=513
+zi1 sau2 	之手	c=1 d=0.183599 t=513
+zi2 naam4 	指南	c=1 d=0.951229 t=513
+zi2 nang4 	只能	c=1 d=0.265803 t=513
+zi2 si6 	只是	c=1 d=0.250324 t=513
+zi2 sik1 	紫色	c=1 d=0.324652 t=513
+zi6 	字	c=1 d=0.913931 t=513
+zi6 	自	c=1 d=0.182684 t=513
+zi6 dung6 	自動	c=1 d=0.386741 t=513
+zin2 tip3 	剪貼	c=1 d=0.174645 t=513
+zip3 	接	c=1 d=1 t=496
+zoi3 	再	c=4 d=1.62198 t=513
+zoi6 	在	c=2 d=0.923628 t=513
+zong1 gaap3 	裝甲	c=1 d=0.634448 t=513
+zong6 	撞	c=1 d=0.316637 t=513
+zou6 	做	c=1 d=0.806541 t=513
+zung1 	中	c=1 d=0.690734 t=513
+zung1 gwok3 	中國	c=1 d=0.88692 t=513
+zung1 ji6 	中二	c=1 d=0.286505 t=513
+zung1 saan1 	中山	c=1 d=0.491644 t=513
+zung2 git3 	總結	c=1 d=0.470011 t=513
+zyu2 ji6 	主義	c=1 d=0.900325 t=513
+zyu6 	住	c=1 d=0.202909 t=513
+zyun2 ji4 	轉移	c=1 d=0.251579 t=513

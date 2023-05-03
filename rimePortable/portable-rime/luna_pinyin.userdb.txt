@@ -1,0 +1,260 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	452
+#@/user_id	portable-rime
+a 	啊	c=2 d=0.775609 t=452
+a 	阿	c=3 d=2.24651 t=452
+a li song 	阿利松	c=1 d=0.527292 t=452
+ai ge 	哀歌	c=1 d=0.97531 t=452
+an 	安	c=9 d=5.86634 t=452
+an 	按	c=3 d=1.67894 t=452
+an 	鞍	c=1 d=0.839457 t=452
+an de 	安德	c=1 d=0.511709 t=452
+ba 	吧	c=2 d=0.985526 t=452
+ba 	爸	c=1 d=0.718924 t=452
+bai du 	百度	c=1 d=0.301194 t=452
+ban 	辦	c=2 d=0.551156 t=452
+bi zhi 	壁紙	c=1 d=0.292293 t=452
+bian 	扁	c=1 d=0.451581 t=452
+bian cheng 	變成	c=5 d=1.67742 t=452
+bo 	博	c=2 d=1.02353 t=452
+bu cheng 	不成	c=1 d=0.147342 t=452
+bu cheng gong 	不成功	c=1 d=0.158817 t=452
+bu chu 	不出	c=1 d=0.219808 t=452
+bu shi 	不是	c=2 d=1.34933 t=452
+bu shu 	部署	c=4 d=1.2763 t=452
+bu xian shi 	不顯示	c=2 d=0.695414 t=452
+bu xiao xin 	不小心	c=1 d=0.571209 t=452
+cai 	才	c=2 d=1.58122 t=452
+cheng gong 	成功	c=1 d=0.15259 t=452
+cheng xu 	程序	c=2 d=1.31444 t=452
+chong xin 	重新	c=1 d=0.414783 t=452
+chu lai 	出來	c=2 d=0.953908 t=452
+chu xian 	出現	c=1 d=0.438235 t=452
+chun 	純	c=4 d=0.988581 t=452
+chun ying wen 	純英文	c=2 d=0.822143 t=452
+ci 	茨	c=1 d=0.279431 t=452
+ci ku 	詞庫	c=9 d=2.4107 t=452
+cong 	從	c=1 d=0.467666 t=452
+cun dang 	存檔	c=2 d=1.25644 t=452
+da 	大	c=2 d=1.73429 t=452
+da 	打	c=2 d=0.646127 t=452
+da zi 	打字	c=1 d=0.316637 t=452
+dang shi 	當時	c=0 d=0.0164474 t=452
+dao 	到	c=1 d=0.472367 t=452
+dao ru 	導入	c=2 d=0.331036 t=452
+de 	德	c=2 d=0.763718 t=452
+de 	的	c=17 d=5.48027 t=452
+dian bao 	電報	c=1 d=0.188247 t=452
+dong 	洞	c=1 d=0.810584 t=452
+dong nan 	東南	c=1 d=0.923116 t=452
+dou 	都	c=2 d=0.504481 t=452
+dou ban 	豆瓣	c=2 d=1.2204 t=452
+dou ding 	豆丁	c=1 d=0.546074 t=452
+duan yu 	短語	c=1 d=0.946485 t=452
+dui hua 	對話	c=1 d=0.271173 t=452
+en 	恩	c=2 d=1.5041 t=452
+er bu shi 	而不是	c=1 d=0.207008 t=452
+fa 	法	c=4 d=0.707992 t=452
+fan ti 	繁體	c=1 d=0.83527 t=452
+fan ying 	反應	c=1 d=0.273898 t=452
+fan ying 	反映	c=0 d=0.0271173 t=452
+feng 	風	c=1 d=0.26982 t=452
+gai hui 	改回	c=1 d=0.771052 t=452
+gao chu lai 	搞出來	c=1 d=0.529935 t=452
+gao le 	搞了	c=1 d=0.156453 t=452
+ge 	個	c=1 d=0.341298 t=452
+ge 	格	c=5 d=2.96261 t=452
+gong 	宮	c=1 d=0.818731 t=452
+gu 	古	c=1 d=0.697676 t=452
+guo hai 	過海	c=1 d=0.282239 t=452
+guo lai 	過來	c=1 d=0.364219 t=452
+han yu 	漢語	c=1 d=0.600496 t=452
+han zi 	漢字	c=1 d=0.22091 t=452
+hao shao 	好少	c=1 d=0.336216 t=452
+he 	河	c=1 d=0.479505 t=452
+hen jiu 	很久	c=1 d=0.157237 t=452
+hui 	會	c=1 d=0.310367 t=452
+hui fu 	恢復	c=1 d=0.585669 t=452
+hui shi 	回事	c=1 d=0.398519 t=452
+jia 	加	c=1 d=0.238115 t=452
+jia 	家	c=1 d=0.722527 t=452
+jia ru 	加入	c=1 d=0.421052 t=452
+jia shang 	加上	c=1 d=0.242926 t=452
+jia zhao 	駕照	c=2 d=1.71725 t=452
+jian die 	間諜	c=1 d=0.891366 t=452
+jiao 	叫	c=1 d=0.246597 t=452
+jiao cheng 	教程	c=1 d=0.402524 t=452
+jiao liu 	交流	c=2 d=0.710887 t=452
+jie jue 	解決	c=1 d=0.170333 t=452
+jin 	今	c=1 d=0.704688 t=452
+jin biao sai 	錦標賽	c=1 d=0.995012 t=452
+jing 	晶	c=3 d=1.17586 t=452
+jiu 	就	c=4 d=0.93772 t=452
+ka 	卡	c=2 d=1.72586 t=452
+kai 	凱	c=1 d=0.263158 t=452
+kan ni 	看你	c=1 d=0.285076 t=452
+ke la 	克拉	c=1 d=0.278037 t=452
+kong ge 	空格	c=3 d=1.7219 t=452
+kuai jie 	快捷	c=1 d=0.937067 t=452
+kun 	昆	c=2 d=1.04435 t=452
+kun te pai 	昆特派	c=2 d=1.18306 t=452
+lai 	來	c=1 d=0.283654 t=452
+lan 	蘭	c=3 d=1.16999 t=452
+lao ban 	老闆	c=1 d=0.965605 t=452
+lao shi 	老師	c=1 d=0.145876 t=452
+lao shi 	老是	c=1 d=0.146607 t=452
+le 	了	c=12 d=4.40419 t=452
+li 	利	c=4 d=2.91883 t=452
+li 	哩	c=2 d=1.60164 t=452
+li 	狸	c=2 d=1.6131 t=452
+li 	理	c=1 d=0.264477 t=452
+li mian 	裏面	c=2 d=0.478642 t=452
+liang ci 	兩次	c=1 d=0.204948 t=452
+long 	龍	c=1 d=0.143704 t=452
+lu 	盧	c=2 d=1.03128 t=452
+lun 	論	c=1 d=0.701173 t=452
+ma 	嗎	c=5 d=2.14225 t=452
+ma 	碼	c=2 d=1.52684 t=452
+ma 	馬	c=5 d=2.86491 t=452
+ma ding 	馬丁	c=1 d=0.895834 t=452
+mai 	麥	c=2 d=1.71725 t=452
+mai ka 	麥卡	c=1 d=0.909373 t=452
+mai ka li si te 	麦卡利斯特	c=1 d=0.891366 t=452
+mei 	沒	c=0 d=0.0271173 t=452
+mei fan ying 	沒反映	c=1 d=0.272532 t=452
+ming 	明	c=1 d=0.726149 t=452
+ming zi 	名字	c=1 d=0.245367 t=452
+na li 	哪裏	c=1 d=0.442639 t=452
+nai 	奶	c=1 d=0.715338 t=452
+nai nai 	奶奶	c=0 d=0.0143704 t=452
+nan 	南	c=2 d=1.30438 t=452
+nan kao 	難考	c=2 d=1.72586 t=452
+nao 	腦	c=1 d=0.806541 t=452
+ne 	呢	c=1 d=0.172045 t=452
+nei 	內	c=1 d=0.900325 t=452
+ni 	你	c=3 d=0.665336 t=452
+ni 	尼	c=3 d=2.03893 t=452
+ni dang shi 	你當時	c=1 d=0.165299 t=452
+ni hao 	你好	c=3 d=0.744532 t=452
+ni shi 	你是	c=1 d=0.164474 t=452
+pei zhi 	配置	c=3 d=0.967125 t=452
+pei zhi wen jian 	配置文件	c=1 d=0.909373 t=452
+piao yang 	漂洋	c=1 d=0.280832 t=452
+pin 	拼	c=3 d=0.823398 t=452
+qi 	奇	c=1 d=0.831104 t=452
+qi 	琪	c=7 d=4.56196 t=452
+qi 	騎	c=1 d=0.843665 t=452
+qie qie 	切切	c=1 d=0.818731 t=452
+qing chun 	青春	c=0 d=0.0882497 t=452
+qing chun zhi cheng 	青春之城	c=2 d=1.79176 t=452
+qu 	去	c=2 d=1.53007 t=452
+qun 	羣	c=3 d=0.903641 t=452
+ran hou 	然後	c=1 d=0.239309 t=452
+ren 	人	c=1 d=0.683861 t=452
+ri ben 	日本	c=2 d=1.70017 t=452
+ru he 	如何	c=3 d=2.69058 t=452
+ru men 	入門	c=1 d=0.470011 t=452
+san 	三	c=1 d=0.29523 t=452
+san 	散	c=1 d=0.680451 t=452
+shan chu 	刪除	c=1 d=0.574072 t=452
+shi 	史	c=1 d=0.261846 t=452
+shi 	是	c=5 d=1.69431 t=452
+shi jian 	實踐	c=1 d=0.474734 t=452
+shi pin 	視頻	c=1 d=0.362402 t=452
+shi zen me 	是怎麼	c=1 d=0.169483 t=452
+shou 	受	c=1 d=0.790571 t=452
+shou ce 	手冊	c=1 d=0.465334 t=452
+shu ji 	書籍	c=1 d=0.458406 t=452
+shu qian 	書籤	c=1 d=0.579842 t=452
+shu ru 	輸入	c=6 d=2.03686 t=452
+shu ru fa 	輸入法	c=2 d=0.594495 t=452
+shuang 	雙	c=2 d=0.408636 t=452
+shuang pin 	雙拼	c=3 d=0.814669 t=452
+shuo 	說	c=1 d=0.142274 t=452
+si 	斯	c=4 d=3.57116 t=452
+sou gou 	搜狗	c=1 d=0.826959 t=452
+suo jin 	縮進	c=1 d=0.786628 t=452
+ta 	他	c=0 d=0.0143704 t=452
+ta nai nai 	他奶奶	c=1 d=0.144424 t=452
+tai wan 	臺灣	c=1 d=1 t=452
+tan 	談	c=1 d=0.694197 t=452
+te 	特	c=3 d=2.67969 t=452
+te pai 	特派	c=0 d=0.025924 t=452
+tong bu 	同步	c=3 d=2.95581 t=452
+tu shan 	禿山	c=1 d=0.946485 t=452
+tuo 	托	c=1 d=0.514274 t=452
+tuo 	託	c=1 d=0.499074 t=452
+wang 	網	c=1 d=0.548812 t=452
+wei 	位	c=0 d=0.0759572 t=452
+wei lun 	威倫	c=1 d=0.970446 t=452
+wen 	文	c=2 d=1.23064 t=452
+wen jian 	文件	c=3 d=1.31834 t=452
+wen ti 	問題	c=3 d=0.796657 t=452
+wo 	我	c=4 d=1.02878 t=452
+wo kan 	我看	c=1 d=0.353455 t=452
+wo yong de 	我用的	c=1 d=0.173774 t=452
+wu 	五	c=2 d=1.34066 t=452
+wu shi 	巫師	c=2 d=1.20273 t=452
+wu tuo bang 	烏托邦	c=1 d=0.814647 t=452
+xi 	悉	c=1 d=0.70822 t=452
+xian 	先	c=1 d=0.23457 t=452
+xiang 	想	c=1 d=0.337902 t=452
+xiao he 	小鶴	c=6 d=1.62786 t=452
+xiao lang hao 	小狼毫	c=5 d=1.80521 t=452
+xiao peng you 	小朋友	c=1 d=0.453845 t=452
+xie 	謝	c=11 d=7.72562 t=452
+xie an 	血案	c=-1 d=0 t=452
+xie an qi 	謝安琪	c=-1 d=0.634448 t=452
+xie an qi 	谢安奇	c=-1 d=0 t=452
+xin 	新	c=1 d=0.211189 t=452
+xing 	星	c=1 d=0.509156 t=452
+xuan xiang 	選項	c=2 d=0.75747 t=452
+xue 	學	c=1 d=0.932394 t=452
+xue xi 	學習	c=1 d=0.463013 t=452
+ye 	也	c=1 d=0.155673 t=452
+ye shi 	也是	c=2 d=0.340773 t=452
+yi 	一	c=0 d=0.0158817 t=452
+yi bu shu 	一部署	c=1 d=0.159614 t=452
+yi ge 	一個	c=1 d=0.244143 t=452
+yin 	銀	c=1 d=0.477114 t=452
+yin he 	銀河	c=2 d=0.684651 t=452
+ying wen 	英文	c=5 d=1.79586 t=452
+yong 	用	c=2 d=0.732455 t=452
+yong de 	用的	c=1 d=0.24607 t=452
+yong hu 	用戶	c=1 d=0.286505 t=452
+you 	有	c=0 d=0.0431711 t=452
+you ren 	有人	c=1 d=0.22313 t=452
+you zhong wen 	有中文	c=1 d=0.433874 t=452
+yu 	宇	c=1 d=0.522046 t=452
+yuan 	園	c=1 d=0.960789 t=452
+yuan zhang 	院長	c=1 d=0.941765 t=452
+yue 	岳	c=2 d=1.34738 t=452
+zai 	在	c=3 d=1.0142 t=452
+zen me 	怎麼	c=6 d=2.66382 t=452
+zhao 	找	c=1 d=0.339596 t=452
+zhao 	昭	c=1 d=0.690734 t=452
+zhao 	着	c=1 d=0.348192 t=452
+zhe ge 	這個	c=1 d=0.16696 t=452
+zhen han 	震撼	c=1 d=0.275271 t=452
+zhi 	之	c=1 d=0.268474 t=452
+zhi biao 	製表	c=1 d=0.284002 t=452
+zhi biao wei 	製表位	c=2 d=1.55791 t=452
+zhi cheng 	之城	c=0 d=0.0882497 t=452
+zhi dao 	知道	c=1 d=0.224249 t=452
+zhi hou 	之後	c=3 d=1.05853 t=452
+zhi hu 	知乎	c=2 d=1.24162 t=452
+zhi jie 	直接	c=1 d=0.535261 t=452
+zhi liao 	治療	c=1 d=0.276651 t=452
+zhi neng 	只能	c=2 d=0.813962 t=452
+zhi qiao 	之橋	c=2 d=1.87603 t=452
+zhong wen 	中文	c=2 d=0.742072 t=452
+zhu 	主	c=1 d=0.349938 t=452
+zhuan 	轉	c=1 d=0.782705 t=452
+zi 	子	c=1 d=0.814647 t=452
+zi dian 	字典	c=2 d=1.20101 t=452
+zi ding yi 	自定義	c=1 d=0.951229 t=452
+zi ku 	字庫	c=1 d=0.249075 t=452
+zi liao 	資料	c=1 d=0.33454 t=452

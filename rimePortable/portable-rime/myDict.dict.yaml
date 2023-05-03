@@ -1,0 +1,14 @@
+# 注意這裏以 --- ... 分別標記出 YAML 文檔的起始與結束位置
+# 在 ... 標記之後的部份就不會作 YAML 文檔來解讀
+
+---
+name: myDict
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - intdp
+  #- SougouCustom
+  - test
+...
